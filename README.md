@@ -3,6 +3,25 @@
 # 概要
 テックキャンプの最終課題にて作成したフリーマーケットアプリケーション。
 
+# 開発環境
+開 発 環 境：Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code/haml&Scss
+開 発 期 間：約3.5週間
+平均作業時間：約10時間
+開 発 体 制：人数4名、アジャイル型開発（スクラム）、Trelloによるタスク管理
+
+# 本番環境
+URL 18.180.92.127 
+ID: team-b
+PASS: 0000
+テスト用アカウント
+<購入者用>
+▶︎メールアドレス: buyer_user@gmail.com
+▶︎パスワード: buyer_user
+▶︎購入用カード情報／番号：4242424242424242／期限：01/29／セキュリティコード：123
+<出品者用<>
+▶︎メールアドレス名: seller_user@gmail.com
+▶︎パスワード: seller_user
+
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
