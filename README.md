@@ -90,7 +90,7 @@ activehashというgemを使ってのプルダウン表示選択機能実装<br>
 # DEMO
 ![demo](https://raw.github.com/wiki/itokeso/freemarket_app_71b/images/image.gif)
 
-
+# DB設計
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
