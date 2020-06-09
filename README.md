@@ -45,7 +45,7 @@ Chromeの最新版を利用してアクセスしてください。ただしデ�
 ・ 商品出品ページフロントエンド・サーバーサイド 
 
 ![demo]</br>
-(https://raw.github.com/wiki/itokeso/freemarket_sample_71b/image/sample.gif)
+(https://raw.github.com/wiki/itokeso/freemarket_app_71b/images/sample.gif)
 
 
 ## usersテーブル
