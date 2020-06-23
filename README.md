@@ -1,7 +1,7 @@
 # README
 
 # 概要
-テックキャンプの最終課題にて作成したフリーマーケットアプリケーション。
+テックキャンプの最終課題にて作成したフリーマーケットアプリケーションです。
 
 # 開発環境
 開 発 環 境：Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code/haml&Scss<br>
